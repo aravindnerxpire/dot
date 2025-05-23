@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Edit Mango & Pineapple</title>
+    <title>Edit Mango & Pineapple and guvaa</title>
 </head>
 <body>
     <h2>Edit Mango & Pineapple</h2>
